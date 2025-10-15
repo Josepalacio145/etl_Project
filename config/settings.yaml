@@ -1,5 +1,5 @@
 input_dir: "data/input_excels"
 table_name: "staging_maternas"
-db_connection: "postgresql+psycopg2://postgres:admin123@localhost:5432/dbmaterna_mt"
-apy_key: "AIzaSyDGhGk3DTCkjF1EUxpMm5ypFoQ-ecrS2gY"
+db_connection: "postgresql+psycopg2://postgres:xxxxxxxx@localhost:xxxx/xxxxxx"
+apy_key: ""
 output_dir_ent: "outfile/training"
